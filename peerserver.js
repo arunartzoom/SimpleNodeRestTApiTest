@@ -9,3 +9,6 @@ var server = PeerServer({
         cert: fs.readFileSync('certificates/cert.pem', 'utf8')
     }
 });
+
+
+console.log("Attempted to start the peerjs server !");
