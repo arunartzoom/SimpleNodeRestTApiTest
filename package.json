@@ -1,0 +1,15 @@
+{
+  "name": "simplenodeestfullserver",
+  "version": "1.0.0",
+  "description": "simple Node restfull Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "arun viswanathan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
